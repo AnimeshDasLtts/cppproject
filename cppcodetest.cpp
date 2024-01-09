@@ -1,5 +1,5 @@
-#include<stdio.h>
-int main(void){
-int arr[5] ={0};
-return arr[6];
+#include <stdio.h>
+int main(){
+  printf("Hello World");
+  return 0;
 }
